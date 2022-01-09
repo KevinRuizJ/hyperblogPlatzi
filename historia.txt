@@ -1,3 +1,5 @@
 Estra es la historia de Kevin Ruiz
 
 Tengo 18 años y nací en Colombia
+
+Y este es un curso de git
